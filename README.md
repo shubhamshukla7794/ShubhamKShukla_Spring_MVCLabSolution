@@ -1,4 +1,4 @@
-#  # Great Learning Lab 5 - College Fest
+#  Great Learning Lab 5 - College Fest
 
 This repo contains the project **Great Learning Back-End Development Lab 5 - College Fest**. This is a Spring MVC application developed for [**E&ICT IIT Roorkee: Advanced Certificate Program in Full Stack Software Development**](https://www.greatlearning.in/advanced-certification-full-stack-software-development-iit-roorkee) certification.
 

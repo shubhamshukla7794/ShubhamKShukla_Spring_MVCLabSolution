@@ -30,8 +30,6 @@ public class Student {
 	}
 
 	public Student(String name, String department, String country) {
-		super();
-		
 		this.name = name;
 		this.department = department;
 		this.country = country;

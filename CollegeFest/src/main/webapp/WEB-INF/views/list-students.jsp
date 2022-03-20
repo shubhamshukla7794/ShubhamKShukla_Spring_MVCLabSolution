@@ -15,7 +15,7 @@
 <body>
 
 <nav>
-	<div class="logo"><a href="/CollegeFest/students/list">College Fest</a></div>
+	<div class="logo"><a href="/CollegeFest/students/list"><i class="fa-solid fa-landmark"></i> College Fest</a></div>
 	<input type="checkbox" id="click">
 	<label for="click" class="menu-btn">
 		<i class="fa-solid fa-bars"></i>
@@ -30,7 +30,7 @@
 		<caption class="heading">List of all Students</caption>
 		<thead>
 			<tr>
-				<th><i class="fa-solid fa-id-badge"></i> Student Id</th>
+<!-- 				<th><i class="fa-solid fa-id-badge"></i> Student Id</th> -->
 				<th><i class="fa-solid fa-user-graduate"></i> Name</th>
 				<th><i class="fa-solid fa-building-columns"></i> Department</th>
 				<th><i class="fa-solid fa-earth-asia"></i> Country</th>
@@ -40,7 +40,7 @@
 		<tbody>
 			<c:forEach items="${Students}" var="tempStudent">
 				<tr>
-					<td data-label="Student Id"><c:out value="${tempStudent.id}" /></td>
+<%-- 					<td data-label="Student Id"><c:out value="${tempStudent.id}" /></td> --%>
 					<td data-label="Name"><c:out value="${tempStudent.name}" /></td>
 					<td data-label="Department"><c:out value="${tempStudent.department}" /></td>
 					<td data-label="Country"><c:out value="${tempStudent.country}" /></td>

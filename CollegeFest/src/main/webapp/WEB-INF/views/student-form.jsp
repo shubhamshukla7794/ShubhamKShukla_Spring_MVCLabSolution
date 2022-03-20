@@ -10,11 +10,11 @@
 	integrity="sha512-9usAa10IRO0HhonpyAIVpjrylPvoDwiPUiKdWk5t3PyolY1cOd4DSE0Ga+ri4AuTroPR5aQvXU9xC6qOPnzFeg==" 
 	crossorigin="anonymous" referrerpolicy="no-referrer" />
 <link href="<c:url value="/resources/css/style.css"/>" rel="stylesheet" />
-<title>Customer Relationship Management</title>
+<title>College Fest</title>
 </head>
 <body>
 <nav>
-	<div class="logo"><a href="/CollegeFest/students/list">Customer Relationship Management</a></div>
+	<div class="logo"><a href="/CollegeFest/students/list"><i class="fa-solid fa-landmark"></i> College Fest</a></div>
 	<input type="checkbox" id="click">
 <!-- 	<label for="click" class="menu-btn"> -->
 <!-- 		<i class="fa-solid fa-bars"></i> -->

@@ -6,7 +6,7 @@ This repo contains the project **Great Learning Back-End Development Lab 5 - Col
 
 In College fest, Students want to take registrations for a Debate event and want to keep track of student details based on the department. You are required to create a web application, where you will be developing CRUD(Create Read Update Delete) functionality.
 
-##  Working with Customer Relationship Management in the Eclipse IDE
+##  Working with College Fest in the Eclipse IDE
 
 ###  Prerequisites
 
